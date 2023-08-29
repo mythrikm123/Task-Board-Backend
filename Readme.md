@@ -5,12 +5,12 @@ Task-Board(MEAN)
 2. Open the command prompt for the created folder
 
 #Backend Steps
-1. Clone the backend repository using the command->https://github.com/mythrikm123/Task-Board-Backend.git
+1. Clone the backend repository using the command->git clone https://github.com/mythrikm123/Task-Board-Backend.git
 2. Install the packages using the command -> npm init
 3. Run the Backend application using the command -> nodemon
 
 #Frontend Steps
-1. Clone the Frontend repository using the command->https://github.com/mythrikm123/Task-Board-Frontend.git
+1. Clone the Frontend repository using the command->git clone https://github.com/mythrikm123/Task-Board-Frontend.git
 2. Install the packages using the command -> npm init
 3. Run the Frontend application using the command -> ng s -o
 
